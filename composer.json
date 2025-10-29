@@ -1,0 +1,5 @@
+{
+  "name": "quocbao/momo-render-package",
+  "description": "Render bridge for MoMo IPN",
+  "require": {}
+}
